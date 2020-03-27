@@ -14,40 +14,66 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-
 <p>Dear Real Estate Agent,</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage, on a traditional team as part of someone else’s brand, or as a solo agent. You understand your potential and are working hard to clear a path toward your goals but currently lack the support you need to achieve them.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Many brokerages promise to provide structure, coaching, and other resources but fail to make good on their word once they’ve drawn you into the fold. If you’re a solo agent looking to make it big, maybe you’re discouraged and overwhelmed by financial obstacles, struggling with lead generation or having trouble balancing the sheer amount of paperwork with client care. Being a solo agent in today’s real estate market requires you to wear a lot of hats, and it’s likely that not all of them fit. <strong>As a result of this and other factors, 18 out of 20 real estate agents are out of the business within two years.</strong> </p>
+
+<p>The reason so many agents drop out of the business is simple: They don’t know what they’re doing wrong. This often isn’t their fault. It’s an unfortunate truth of our industry that the majority of brokerages out there don’t properly educate or equip their agents.</p>
+
+<p>Even the most hardworking agent won’t get anywhere if they aren’t headed in the right direction. <strong>Having the motivation and desire to succeed is only half the battle.</strong> You also need to know the steps to get there. </p>
+
+<p>It’s time to stop chasing dead ends. It’s time to forge your own path to success.</p>
+
+<p><strong>My name is Josh Jelmberg.</strong> My family moved to the desert in the year 2000 after selling three successful businesses that spanned over 37 years. What made us successful in the corporate business world is now taking us to the top of the real estate market. Our synergistic blend of talent and our marketing approach has seen us grow from $12 million in sales in 2010 to over $73 million in 2019. We have a long track record of success in business, and the comprehensive and proven processes, tools, and strategies we’ve created in our 10+ years in real estate sales has resulted in exponential growth for our real estate business and the agents who work with us.</p>
+
+<p>I’ve seen people rack up tens of thousands of dollars in credit card debt, waste time and money on useless activities, and even begin lying to their spouses as a result of their failed attempts to succeed in real estate. These people lay awake at night wondering if entering the industry was a mistake—questioning whether they should just cut their losses and fall back into a regular 9-to-5 job. They’ve simply lost hope.</p>
+
+<p><strong>If this sounds familiar, then consider this message your lifeline.</strong></p>
+
+<p>We’ve done the work by spending enormous amounts of time and money over the last 10 years to create, identify, vet, test, and implement what we believe to be the most effective systems, tools, and strategies we could find after training with some of the most successful agents and teams throughout the country. Now we’d like to help you implement these systems into your business to help you meet your real estate goals. </p>
+
+<p>There’s no team or brokerage out there that is willing to invest the resources that we do in our agents through planning, strategy, training, culture, leads and support. </p>
+
+<p><strong>Let me be a little more specific about what my team has to offer:</strong>
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>Lead generation - 30+ leads per month</li>
+<li>Advanced lead conversion and generation strategies</li>
+<li>Competitive compensation structure</li>
+<li>A one-on-one success coach/manager</li>
+<li>In-house marketing specialist and professional photographers</li>
+<li>A personalized plan of action to help you meet your real estate goals</li>
+<li>Marketing collateral, including personal cards, direct signage, and open house kits</li>
+<li>Weekly topical and dialogue training</li>
+<li>Weekly team accountability</li>
+<li>Team events and trips</li>
+<li>Full-time administrative staff (Contracts & Listing Managers).</li>
+<li>New, modern workspace</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>Ultimately, our goal is to help you focus on the things that likely drew you to real estate to begin with: people. Helping people find their dream homes, helping people negotiate and close deals that are in their best interest. We can help you narrow down your focus to the income-producing activities and help you take the next steps towards the financial and time freedom that you dream of having.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p><strong>Our systems truly work, but don’t just take my word for it.</strong> Consider the stories of Jackie and Connor.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Jackie started with our team in April 2017, immediately after passing her state real estate exam. She moved here after working in another state but had only closed a deal or two before joining us. After finishing 2017 with 13 transactions and over $4 million in volume, she did 38 deals in her first full year with us.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Connor was a brand-new agent when he joined us after also moving here from another state and another career. Since 2018, Connor has closed over 32 transactions for nearly $13 million in volume.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Their success stories are incredible, but now it’s time for you to start writing your own.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p><strong>When you join us, the onboarding process starts right away with a six-week program.</strong> We’ll train you on all of our core tools, systems, strategies, concepts, and expectations while also helping you define your goals and creating your action plan. Once this process is complete, you will feel confident on how to function within our team, be prepared to take leads, and ready to close deals.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>After all, the choice is in your hands. You can stay struggling where you are, join a big box brokerage where you’ll get no support, or even quit the industry altogether and go get started working at a 9-to-5 job—or you can join our team and start leading the life you deserve.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p><strong>Our support-oriented environment helps professionals learn, grow, and thrive.</strong> People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals you need support, coaching, resources, and leads—so that is exactly what we provide.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>I look forward to talking to you soon!</p>
+
+<p>Josh Jelmberg</p>
+
 
 
 
