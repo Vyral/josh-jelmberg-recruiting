@@ -3,7 +3,6 @@ layout: post
 title: Application of COVID-19 Showing / Inspection Advisory & Agreement
 date: 2020-03-28 00:00:00
 tags:
-  - Internal
 excerpt: Please see the COVID-19 Showing / Inspection Advisory & Agreement.
 enclosure:
 pullquote:
@@ -26,7 +25,7 @@ Please see the COVID-19 Showing / Inspection Advisory & Agreement. We are using 
 
 **Contract to Close:**&nbsp;For inspectors, appraisers, walk throughs etc, after we have exhausted all options to adjust terms, closing and contingency dates, waiving VP's, drive-by appraisals etc., to accommodate for the governors stay at home order and social distancing.
 
-We need to take KW in house councils recommendations seriously when he explains;
+We need to take KW in house councils recommendations seriously when he explains:
 
 *"Please be advised that this isn't a "free pass" to get back to business as usual. This does not negate the fact that our E & O, nor any other insurance carrier, will cover any claims made against our firm or you related to COVID-19. This simply gives us a uniform way to document that anyone accessing our listings and/or conducting business has been advised of the risks."*
 
