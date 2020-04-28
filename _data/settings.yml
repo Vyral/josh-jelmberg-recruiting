@@ -1,110 +1,119 @@
 audit_header: false
-title: "Coachella Valley's Best Real Estate Training"
-description: Josh Jelmberg, a top Real Estate Agent in Coachella Valley, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Coachella Valley's Best Real Estate Training
+description: >-
+  Josh Jelmberg, a top Real Estate Agent in Coachella Valley, shares his own
+  internal real estate agent training for free. His Real Estate Training, Tips
+  and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url: >-
+      https://www.eventbrite.com/o/jelmberg-real-estate-team-keller-williams-30167136038
   - title: Free Strategy Call
     url: /contact/
 client:
   name: Josh Jelmberg
   title:
   license_number:
-  about_markdown: |
-    Jelmberg Team located in  Palm Desert, CA and serving the entire Coachella Valley. Our experience with everything from Sun City Del Webb Communities to Luxury Real Estate and everything in between.  Our comprehensive knowledge of the Palm Springs Area and desert communities, will help you sell your home or find your luxury dream property in the smoothest, most efficient manner possible. Visit our detailed Coachella Valley Communities Guide here to find your perfect community.
+  about_markdown: >-
+    Jelmberg Team located in Palm Desert, CA and serving the entire Coachella
+    Valley. Our experience with everything from Sun City Del Webb Communities to
+    Luxury Real Estate and everything in between. Our comprehensive knowledge of
+    the Palm Springs Area and desert communities, will help you sell your home
+    or find your luxury dream property in the smoothest, most efficient manner
+    possible. Visit our detailed Coachella Valley Communities Guide here to find
+    your perfect community.
   market: Coachella Valley
-  brand: Jelmberg Team, Inc.
+  brand: 'Jelmberg Team, Inc.'
   brokerage:
-  address: 39575 Washington Street Suite 105 Palm Desert, CA 92211
-  phone: 760-485-7104
+  address: '39575 Washington St #105<br>Palm Desert, CA 92211'
+  phone: (760) 485-7104
   phone_type:
   phone2:
   phone2_type:
   email: jjelmberg@jelmbergteam.com
-  url: https://www.jelmbergteam.com
-
+  url: 'https://www.jelmbergteam.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how Jelmberg Team, Inc. can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: >-
+      Let's talk about how Jelmberg Team, Inc. can take your business to new
+      heights.
+    CTA_link_text: Free Strategy Session
     CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/JelmbergTeam
-  linkedin_url: https://www.linkedin.com/company/jelmberg-team/
+  facebook_url: 'https://www.facebook.com/JelmbergTeam'
+  linkedin_url: 'https://www.linkedin.com/company/jelmberg-team/'
   gplus_url:
   youtube_url:
-  twitter_url: https://twitter.com/JelmbergTeam
-  instagram_url: https://www.instagram.com/jelmbergteam/
+  twitter_url: 'https://twitter.com/JelmbergTeam'
+  instagram_url: 'https://www.instagram.com/jelmbergteam/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Coachella Valley Real Estate Podcast with Josh Jelmberg'
-  categories: Education
+  title: Coachella Valley Real Estate Podcast with Josh Jelmberg
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Coachella Valley Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Jelmberg Team, Inc. - your professional Coachella Valley Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Coachella Valley, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Josh Jelmberg'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Coachella
+    Valley Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Jelmberg Team, Inc. - your
+    professional Coachella Valley Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Coachella
+    Valley, home selling tips, home for sale, home buying, home buying process,
+    property finder, property search, property, real estate market, estate
+    agent, realestate, real estate listings, buying a house, homes for sale,
+    mls, home buyer
+  author: Josh Jelmberg
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Coachella Valley Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#DFB33F'
+  brand_color: '#dfb33f'
   theme_color: '#333333'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
