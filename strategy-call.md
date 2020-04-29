@@ -4,7 +4,6 @@ title: Free Strategy Call
 permalink: /strategy-call/
 ---
 
-<div contenteditable="true">
 <div class="recruiting-page">
 <h1 class="join-us">Free Real Estate Business Planning Call</h1>
 <h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>
@@ -87,5 +86,4 @@ permalink: /strategy-call/
 						<input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
-</div>
 </div>
