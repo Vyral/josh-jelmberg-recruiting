@@ -3,6 +3,7 @@ layout: post
 title: New COVID Forms / Update
 date: 2020-04-09 00:00:00
 tags:
+  - Internal
 excerpt: >-
   We've received new forms regarding buyers and sellers, as well as updates for
   our team!
