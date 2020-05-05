@@ -3,7 +3,6 @@ layout: post
 title: Stay At Home Order Clarified By CAR
 date: 2020-03-22 00:00:00
 tags:
-  - Internal
 excerpt: >-
   I am sharing some info regarding the Stay At Home Order and CAR's
   clarification on it.
@@ -12,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /img/logo.png
+youtube_alternate_image: /uploads/stay-at-home.jpg
 youtube_code: k4Fr5pgsPAc
 ---
 
