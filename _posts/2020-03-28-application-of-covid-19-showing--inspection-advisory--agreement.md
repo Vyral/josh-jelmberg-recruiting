@@ -3,14 +3,13 @@ layout: post
 title: Application of COVID-19 Showing / Inspection Advisory & Agreement
 date: 2020-03-28 00:00:00
 tags:
-  - Internal
 excerpt: Please see the COVID-19 Showing / Inspection Advisory & Agreement.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /img/logo.png
+youtube_alternate_image: /uploads/showing-inspection.jpg
 youtube_code: zORgzVLQ19k
 ---
 
