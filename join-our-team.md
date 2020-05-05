@@ -69,10 +69,10 @@ permalink: /join-our-team/
 
 <p>So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.</p>
 
+<a name="apply"></a>
 <p>I look forward to talking to you soon!</p>
 
 <p>Josh Jelmberg</p>
-
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>

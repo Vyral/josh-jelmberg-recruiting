@@ -22,7 +22,7 @@ permalink: /strategy-call/
 
 <!-- {% include strategy-photos.html %} -->
 
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Josh Jelmberg and I’ve sold ____ of homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -40,14 +40,14 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
+<p><span class="quote">"Working at the Jelmberg Team is great because everyone is so positive. Coming into work is fun when you like the people you work with! Also, the accountability keeps me on my toes, and our team leader is always available to help me!"</span><br>
+<span class="author">- <strong>Renee Marrotte</strong>, Jelmberg Team Real Estate Professional</span></p>
+
+<!-- <p><span class="quote"></span><br>
 <span class="author"></span></p>
 
 <p><span class="quote"></span><br>
-<span class="author"></span></p>
-
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<span class="author"></span></p> -->
 </div>
 <hr>
 

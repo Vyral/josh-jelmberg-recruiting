@@ -8,11 +8,13 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: >-
-      https://www.eventbrite.com/o/jelmberg-real-estate-team-keller-williams-30167136038
+  # - title: Events
+  #   url: >-
+  #     https://www.eventbrite.com/o/jelmberg-real-estate-team-keller-williams-30167136038
   - title: Free Strategy Call
-    url: /contact/
+    url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 client:
   name: The Jelmberg Team
   title:
