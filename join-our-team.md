@@ -44,8 +44,6 @@ There’s no team or brokerage out there that is willing to invest the resources
 * New, modern workspace
 {: .indent}
 
-&nbsp;
-
 Ultimately, our goal is to help you focus on the things that likely drew you to real estate to begin with: people. Helping people find their dream homes, helping people negotiate and close deals that are in their best interest. We can help you narrow down your focus to the income-producing activities and help you take the next steps towards the financial and time freedom that you dream of having.
 
 **Our systems truly work, but don’t just take my word for it.** Consider the stories of Jackie and Kyle.
