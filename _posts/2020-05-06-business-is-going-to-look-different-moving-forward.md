@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Business is Going to Look Different Moving Forward
-date: 2020-05-06 22:31:58
+date: 2020-05-06 22:31:00
 tags:
+  - Internal
 excerpt:
 enclosure:
 pullquote:
