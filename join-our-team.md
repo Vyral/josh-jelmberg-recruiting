@@ -4,7 +4,7 @@ title: Coachella Valley Careers
 permalink: /join-our-team/
 ---
 
-<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1><h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5><div class="recruiting-photo"><span class="client-image-container"><img alt="{{site.data.settings.client.name}}" class="client-image" src="/img/headshot.jpg" /> </span></div></div>
+<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1><h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5><div class="recruiting-photo"><span class="client-image-container"><img alt="{{site.data.settings.client.name}}" class="client-image" src="/uploads/josh.jpg" width="337" height="337" /> </span></div></div>
 
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 
