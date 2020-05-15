@@ -16,6 +16,6 @@ youtube_code: uPl9ex-k22U
 
 {% include youtube.html %}
 
-How do you succeed in the current market? We have two primary focuses. First, we **create a financial margin**. Second, **we feed our database**. Luckily, The Jelmberg Team has the tools available to help you succeed.
+How do you succeed in the current market? Take a look at some excerpts from our a recent training session to find out how we're doing it.
 
 {% include full-post-cta.html %}
