@@ -23,3 +23,5 @@ youtube_code: pc7VgEs8pJw
 There was a time (not that long ago) during this pandemic when we focused solely on how to support our clients with their basic needs and safety. In the last month, I think our conversations have gradually moved from ensuring clients had toilet paper and food to valid interest in real estate. Only take your client leads as far as they are emotionally willing to go, but I think for the most part we’re back to presenting ourselves as the market experts we are.
 
 {% include full-post-cta.html %}
+
+&nbsp;
