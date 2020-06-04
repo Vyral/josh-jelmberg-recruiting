@@ -14,9 +14,9 @@ youtube_alternate_image: /uploads/06-03-jelmburg-youtube.jpg
 youtube_code: pc7VgEs8pJw
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pc7VgEs8pJw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pc7VgEs8pJw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-<center><em>Here’s advice on how to pivot back toward more industry-focused messaging.</em></center>
+<center><em>Here&rsquo;s advice on how to pivot back toward more industry-focused messaging.</em></center>
 
 <br>With the ever-changing landscape of our nation and the COVID-19 stay-at-home orders, the question our agents keep asking is, “**What message should I be communicating to my clients right now?**”
 
