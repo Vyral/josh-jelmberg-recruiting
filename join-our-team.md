@@ -50,11 +50,11 @@ permalink: /join-our-team/
 
 <p>Ultimately, our goal is to help you focus on the things that likely drew you to real estate to begin with: people. Helping people find their dream homes, helping people negotiate and close deals that are in their best interest. We can help you narrow down your focus to the income-producing activities and help you take the next steps towards the financial and time freedom that you dream of having.</p>
 
-<p><strong>Our systems truly work, but don’t just take my word for it.</strong> Consider the stories of Jackie and Kyle.</p>
+<p><strong>Our systems truly work, but don’t just take my word for it.</strong> Consider the stories of Renee and Kyle.</p>
 
-<p>Jackie started with our team in April 2017, immediately after passing her state real estate exam. She moved here after working in another state but had only closed a deal or two before joining us. After finishing 2017 with 13 transactions and over $4 million in volume, she did 38 deals in her first full year with us.</p>
+<p>Renee started with our team in October of 2018, after working with her mom for many years in their short and long term rental business.  She had only closed a handful of deals in her career prior to joining us.  Renee closed 23 deals and $7.5 million in business in her first 14 months with us.</p>
 
-<p>Kyle was a brand-new agent when he joined us after also moving here from another state and another career. Since 2018, Kyle has closed over 32 transactions for nearly $13 million in volume.</p>
+<p>Kyle was a brand-new agent when he joined us after moving here from another state and another career. Since 2018, Kyle has closed over 38 transactions for nearly $14 million in volume.</p>
 
 <p>Their success stories are incredible, but now it’s time for you to start writing your own.</p>
 
