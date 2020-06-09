@@ -5,7 +5,8 @@ date: 2020-06-04 00:00:00
 tags:
   - Transaction Management
 excerpt: Here’s advice on how to pivot back toward more industry-focused messaging.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Recruiting/Videos/Whats+the+Message+I+Should+Communicate+to+Clients_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
