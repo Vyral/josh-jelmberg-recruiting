@@ -16,7 +16,9 @@ youtube_code: _3bhSvjSNuo
 
 {% include youtube.html %}
 
-Renee Marrotte has been an agent with the Jelmberg Team for some time now. I recently sat down with her to talk about her career and experience working with our team:
+<center><em>Renee Marrotte’s experience in real estate and on our team.</em></center>
+
+<br>Renee Marrotte has been an agent with the Jelmberg Team for some time now. I recently sat down with her to talk about her career and experience working with our team:
 
 **Why did you get into real estate?**
 
