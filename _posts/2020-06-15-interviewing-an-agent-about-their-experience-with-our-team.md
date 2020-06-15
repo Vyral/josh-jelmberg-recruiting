@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/06-12-jelmberg-youtube.jpg
 youtube_code: _3bhSvjSNuo
 ---
 
-{% include youtube.html %}
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_3bhSvjSNuo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center><em>Renee Marrotte&rsquo;s experience in real estate and on our team.</em></center>
 
