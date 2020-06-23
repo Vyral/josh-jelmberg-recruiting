@@ -10,7 +10,7 @@ pullquote: I have more confidence in myself and in what I can achieve.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-12-jelmberg-youtube.jpg
+youtube_alternate_image: /uploads/06-19-jelmberg-youtube-2.jpg
 youtube_code: _3bhSvjSNuo
 ---
 
