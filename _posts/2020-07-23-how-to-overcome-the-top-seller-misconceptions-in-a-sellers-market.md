@@ -19,7 +19,7 @@ youtube_alternate_image: /uploads/josh.jpg
 youtube_code:
 ---
 
-<center><iframe src="https://www.youtube.com/embed/QdcdpvHcQMQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<iframe src="https://www.youtube.com/embed/QdcdpvHcQMQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <center><em>Here are the most common seller misconceptions we face and how we overcome them.</em></center>
 
