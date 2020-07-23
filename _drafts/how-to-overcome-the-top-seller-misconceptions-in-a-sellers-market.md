@@ -19,7 +19,7 @@ youtube_alternate_image: /uploads/jelmberg-placeholder.jpg
 youtube_code:
 ---
 
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<center><iframe src="https://www.youtube.com/embed/QdcdpvHcQMQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
 <center><em>Here are the most common seller misconceptions we face and how we overcome them.</em></center>
 
