@@ -10,12 +10,13 @@ excerpt: >-
   them.
 enclosure:
 pullquote: >-
-  In our desert market, getting three above-asking-price offers like you may see
-  in the coastal markets probably isn’t a reality.
+  Unless a seller is at the right price point in the right community, getting
+  three above-asking-price offers like you may see in the coastal markets
+  probably isn’t a reality.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /img/logo.png
+youtube_alternate_image: /uploads/07-23-jelmberg-youtube-2.jpg
 youtube_code:
 ---
 
