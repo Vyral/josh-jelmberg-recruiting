@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are the most common seller misconceptions we face and how we overcome
   them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Videos/How+To+Overcome+The+Top+Seller+Misconceptions+In+a+Sellers+Market.mp4
 pullquote: >-
   Unless a seller is at the right price point in the right community, getting
   three above-asking-price offers like you may see in the coastal markets
