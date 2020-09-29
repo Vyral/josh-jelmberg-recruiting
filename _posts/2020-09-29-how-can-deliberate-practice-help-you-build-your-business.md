@@ -34,13 +34,13 @@ The type of practice that Ericsson found most world-class experts to engage in i
 
 **3\. Feedback**. Feedback is ideally immediate, data-driven, and easily measurable. “Did I make the shot or not.” “What was my time?” “Did I hit the receiver in stride?”
 
-**4\. Reflect and refine**. Feedback is typically negative (e.g., “Here is what you didn’t do that you set out to do”). &nbsp;What world-class experts do that most of us don’t is truly open themselves up and listen to feedback. They reflect, make adjustments, and start the cycle over again.
+**4\. Reflect and refine**. Feedback is typically negative (e.g., “Here is what you didn’t do that you set out to do”). What world-class experts do that most of us don’t is truly open themselves up and listen to feedback. They reflect, make adjustments, and start the cycle over again.
 
 It’s this process of deliberate practice done over and over and over that allows us to continuously improve, grow, and realize our true potential.
 
 {% include pullquote.html %}
 
-The Seahawks just whooped the Patriots on a recent Sunday night football, and in his post-game press conference, Russell Wilson described how deliberate practice helps his team make plays like the exceptional ones made to win the game. He said, “People talk about 10,000 hours to be great; I feel like I’ve spent 30,000 hours making those types of plays. You spend so much time in the offseason, with just the obsession of doing it over and over and over and over again, working at it, perfecting it. It’s not perfect, let’s do it again, let’s rep it again, let’s get it right. Those guys (his teammates) have completely bought into the process of it all, completely bought into the work ethic of it all.” &nbsp;He goes on to say, “I love winning. I love the process of winning. I love the process of the week (of practice). I love that more than the end result even.”
+The Seahawks just whooped the Patriots on a recent Sunday night football, and in his post-game press conference, Russell Wilson described how deliberate practice helps his team make plays like the exceptional ones made to win the game. He said, “People talk about 10,000 hours to be great; I feel like I’ve spent 30,000 hours making those types of plays. You spend so much time in the offseason, with just the obsession of doing it over and over and over and over again, working at it, perfecting it. It’s not perfect, let’s do it again, let’s rep it again, let’s get it right. Those guys (his teammates) have completely bought into the process of it all, completely bought into the work ethic of it all.” He goes on to say, “I love winning. I love the process of winning. I love the process of the week (of practice). I love that more than the end result even.”
 
 If we can embrace and fall in love with the process of deliberate practice, the sky's the limit for what we are trying to accomplish.
 
