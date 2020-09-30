@@ -22,7 +22,7 @@ youtube_code:
 
 <center><em>Deliberate practice can destroy the barriers preventing you from continuously improving.</em></center>
 
-<br>‘Kaizen’ is a concept heard normally when discussing managing quality in manufacturing. It’s a Japanese word that literally means “continuous improvement.” It’s a persistent desire to do better, to excel beyond the current level of expertise. It’s very much a positive state of mind in that you only look backward on successes or mistakes to celebrate, learn, move forward, and grow. There is no place to either rest on our past successes or dwell on past mistakes.
+<br>‘Kaizen’ is a concept heard normally when discussing quality in manufacturing. It’s a Japanese word that literally means “continuous improvement.” It’s a persistent desire to do better, to excel beyond the current level of expertise. It’s very much a positive state of mind in that you only look backward on successes or mistakes to celebrate, learn, move forward, and grow. There is no place to either rest on our past successes or dwell on past mistakes.
 
 Maybe the most famous study that included this concept of continuous improvement was done by Anders Ericsson. Ericsson is a cognitive psychologist who spent his career studying how experts acquire world-class skills. He studied Olympic athletes, chess grandmasters, renowned concert pianists, prima ballerinas, PGA golfers, and expert radiologists—he is the expert on experts.
 
@@ -44,7 +44,7 @@ The Seahawks just whooped the Patriots on a recent Sunday night football, and in
 
 If we can embrace and fall in love with the process of deliberate practice, the sky's the limit for what we are trying to accomplish.
 
-So, as far as our team goes, **one of the main ways continuous improvement is achieved is with the help of coaching and accountability from our success manager**. Agents meet with our success manager once a week and receive feedback on the goals they created themselves and then coached on their next steps to move forward. Along with this accountability and coaching, we provide two training sessions a week that agents are able to take advantage of. Couple this with the tools and leads we provide, and the growth potential for our agents’ skills and business are constrained only by their desire to achieve them.
+So, as far as our team goes, **one of the main ways continuous improvement is achieved is with the help of coaching and accountability from our success manager**. Agents meet with our success manager once a week and receive feedback on the goals they created themselves and are then coached on their next steps to move forward. Along with this accountability and coaching, we provide two training sessions a week that agents are able to take advantage of. Couple this with the tools and leads we provide and the growth potential for our agents’ skills and business are constrained only by their desire to achieve them.
 
 If you have a passion to be a great Realtor and find yourself plateauing, or just not sure what to do next to perpetuate Kaizen and stay on the path of growth in your career, give me a call to schedule a private one on one meeting. I would love to help you\!
 
