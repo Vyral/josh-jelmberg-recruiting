@@ -26,6 +26,8 @@ youtube_code:
 
 Maybe the most famous study that included this concept of continuous improvement was done by Anders Ericsson. Ericsson is a cognitive psychologist who spent his career studying how experts acquire world-class skills. He studied Olympic athletes, chess grandmasters, renowned concert pianists, prima ballerinas, PGA golfers, and expert radiologists—he is the expert on experts.
 
+![](/uploads/skill--time.png){: width="739" height="540"}
+
 The type of practice that Ericsson found most world-class experts to engage in is what he calls deliberate practice, to which there are four parts:
 
 **1\. Stretch goal**. The focus is on a very specific aspect of performance that is trying to be improved. This is generally one of the weaker aspects of one’s performance.
