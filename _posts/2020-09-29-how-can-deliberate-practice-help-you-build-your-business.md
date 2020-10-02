@@ -24,9 +24,9 @@ youtube_code:
 
 <br>‘Kaizen’ is a concept heard normally when discussing quality in manufacturing. It’s a Japanese word that literally means “continuous improvement.” It’s a persistent desire to do better, to excel beyond the current level of expertise. It’s very much a positive state of mind in that you only look backward on successes or mistakes to celebrate, learn, move forward, and grow. There is no place to either rest on our past successes or dwell on past mistakes.
 
-Maybe the most famous study that included this concept of continuous improvement was done by Anders Ericsson. Ericsson is a cognitive psychologist who spent his career studying how experts acquire world-class skills. He studied Olympic athletes, chess grandmasters, renowned concert pianists, prima ballerinas, PGA golfers, and expert radiologists—he is the expert on experts.
+![](/uploads/skill--time.png "Skills &amp; Time"){: width="739" height="540"}
 
-![](/uploads/deliberate-practice.png "Deliberate Practice"){: width="512" height="512"}
+Maybe the most famous study that included this concept of continuous improvement was done by Anders Ericsson. Ericsson is a cognitive psychologist who spent his career studying how experts acquire world-class skills. He studied Olympic athletes, chess grandmasters, renowned concert pianists, prima ballerinas, PGA golfers, and expert radiologists—he is the expert on experts.
 
 The type of practice that Ericsson found most world-class experts to engage in is what he calls deliberate practice, to which there are four parts:
 
@@ -37,6 +37,8 @@ The type of practice that Ericsson found most world-class experts to engage in i
 **3\. Feedback**. Feedback is ideally immediate, data-driven, and easily measurable. “Did I make the shot or not.” “What was my time?” “Did I hit the receiver in stride?”
 
 **4\. Reflect and refine**. Feedback is typically negative (e.g., “Here is what you didn’t do that you set out to do”). What world-class experts do that most of us don’t is truly open themselves up and listen to feedback. They reflect, make adjustments, and start the cycle over again.
+
+![](/uploads/deliberate-practice.png "Deliberate Practice"){: width="512" height="512"}
 
 It’s this process of deliberate practice done over and over and over that allows us to continuously improve, grow, and realize our true potential.
 
