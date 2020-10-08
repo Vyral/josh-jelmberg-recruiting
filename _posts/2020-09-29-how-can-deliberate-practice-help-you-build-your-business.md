@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Deliberate practice can destroy the barriers preventing you from continuously
   improving.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/How+Can+Deliberate+Practice+Help+You+Build+Your+Business_.mp4
 pullquote: >-
   If we can embrace and fall in love with the process of deliberate practice,
   the sky's the limit for what we are trying to accomplish.
