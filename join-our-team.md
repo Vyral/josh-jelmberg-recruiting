@@ -8,6 +8,7 @@ permalink: /join-our-team/
 <span class="client-image-container"><img src="/uploads/josh-1.jpg" class="client-image"/>
 </span>
 <figcaption class="caption">Josh Jelmberg</figcaption>
+<p class="readlink"><a href="https://realestateiscalling.com/join-our-team/#apply" class="readmore" style="display: block; margin=0 auto; text-align:center;">Appy Now</a></p>
 </div>
 
 <p>Dear Real Estate Agent,</p>
