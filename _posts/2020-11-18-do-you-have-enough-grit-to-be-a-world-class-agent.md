@@ -42,7 +42,7 @@ So is grit something that we are born with or into, is it a byproduct of a tough
 
 Practice can be hard, but each time we choose to engage in and complete each step of deliberate practice, focus on a specific aspect of our performance, put 100% of that focus and effort into practice, receive and reflect on feedback and refine, and re-engage in the repetition of deliberate practice—whether it’s a jump shot, a lap, or dialogue for a sales call—we are training our minds to overcome obstacles and persevere toward a goal. Afterward, we’ll naturally see our grit muscle grow. If we can string a bunch of quality deliberate practice reps together, over time we will see ourselves become grittier and find ourselves on the path to excellence.
 
-![Skill vs. Time](/uploads/skill-v-time.gif "Skill vs. Time"){: width="728" height="410"}
+<center><img src="https://d1qmdf3vop2l07.cloudfront.net/loyal-tapir.cloudvent.net/hash-store/6c9c87c452be5ff6d6e511c489e7f776.gif" alt="Skill vs. Time" title="Skill vs. Time" width="728" height="410" data-cms-original-src="/uploads/skill-v-time.gif"></center>
 
 **At the Jelmberg Team, we provide an environment for this growth through weekly coaching, training, and accountability**. If you have any questions or are curious about how we incorporate these concepts into our business, reach out to one of the agents on our team for a private one-on-one meeting. We’d love to help you.
 
