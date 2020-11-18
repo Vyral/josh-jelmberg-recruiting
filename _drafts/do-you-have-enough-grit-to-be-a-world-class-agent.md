@@ -12,10 +12,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-18-jelmberg-youtube.jpg
-youtube_code: 67O5LC0nhC4
+youtube_code: 
 ---
 
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/67O5LC0nhC4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <center><em>Here&rsquo;s how you can build the one trait all great agents have: grit.</em></center>
 
