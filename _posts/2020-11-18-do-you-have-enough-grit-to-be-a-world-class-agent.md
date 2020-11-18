@@ -19,7 +19,7 @@ youtube_code:
 
 <center><em>Here&rsquo;s how you can build the one trait all great agents have: grit.</em></center>
 
-<br>In one of our prior videos, I shared the concept of continuous improvement and how it takes 10,000 hours of deliberate practice to transform someone from an amateur (with no expertise) to a world-class expert.
+<br>In <u><a target="_blank" rel="noopener" href="https://realestateiscalling.com/how-can-deliberate-practice-help-you-build-your-business.html">one of our prior videos</a></u>, I shared the concept of continuous improvement and how it takes 10,000 hours of deliberate practice to transform someone from an amateur (with no expertise) to a world-class expert.
 
 This sounds great, but it also sounds hard, arduous, and time-consuming. That’s right—it does, and it is. It takes passion and perseverance over a long period to achieve world-class expertise. &nbsp;It takes what Angela Duckworth, professor of psychology at the University of Pennsylvania, calls grit.
 
