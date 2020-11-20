@@ -4,7 +4,8 @@ title: Do You Have Enough Grit to Be a World-Class Agent?
 date: 2020-11-18 00:00:00
 tags:
 excerpt: 'Here’s how you can build the one trait all great agents have: grit.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Do+You+Have+Enough+Grit+to+Be+a+World-Class+Agent_.mp4
 pullquote: >-
   It takes passion and perseverance over a long period to achieve world-class
   expertise.
