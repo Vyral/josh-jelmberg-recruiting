@@ -18,13 +18,15 @@ youtube_alternate_image: /uploads/12-01-jelmburg-youtube.jpg
 youtube_code:
 ---
 
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/gksZ0VpyboQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <center><em>You can apply the Pareto principle to your real estate business to help reach your goals.</em></center>
 
 <br>Being a solo agent in today’s real estate market necessitates wearing a lot of hats, and it’s likely that not all of them fit. Do you ever get overwhelmed or have trouble balancing all the requirements needed to consistently compete and win your share of business? Today I am going to share a simple but powerful principle that we use in our businesses (and try to implement in every aspect of our lives) to achieve our goals.
 
 If you have ever been to Vegas, it seems that there is always a new casino being built or added onto. Have you ever sat and wondered how massive projects like this, with their huge quantity of material, labor, and immense detail, get built in a matter of years?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWl8sfFMM34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the early 2000s, before my career in real estate, I worked for a large general contractor in Las Vegas as a project engineer on MGM’s $9.2 billion Project City Center. I would later go on to work for a smaller company as a project manager building out bars and restaurants in many of the casinos on the strip. **One of the first things a manager of a project does is create a schedule**. A construction schedule is made up of all the activities required to complete a job. Tasks are sequenced in the order that they need to happen in the field: frame a room, rough electrical, mechanical and plumbing, insulation, drywall, tape, texture, and paint.
 
