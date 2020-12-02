@@ -26,7 +26,7 @@ youtube_code:
 
 If you have ever been to Vegas, it seems that there is always a new casino being built or added onto. Have you ever sat and wondered how massive projects like this, with their huge quantity of material, labor, and immense detail, get built in a matter of years?
 
-![Vegas City Center Time Lapse](/uploads/vegas-city-center-time-lapse.gif "Vegas City Center Time Lapse"){: width="640" height="360"}
+![](/uploads/vegas-city-center-time-lapse.gif){: width="640" height="360"}
 
 In the early 2000s, before my career in real estate, I worked for a large general contractor in Las Vegas as a project engineer on MGM’s $9.2 billion Project City Center. I would later go on to work for a smaller company as a project manager building out bars and restaurants in many of the casinos on the strip. One of the first things a manager of a project does is create a schedule. A construction schedule is made up of all the activities required to complete a job. Tasks are sequenced in the order that they need to happen in the field: frame a room, rough electrical, mechanical and plumbing, insulation, drywall, tape, texture, and paint.
 
