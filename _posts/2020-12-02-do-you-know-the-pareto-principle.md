@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   You can apply the Pareto principle to your real estate business to help reach
   your goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Do+You+Know+the+Pareto+Principle_.mp4
 pullquote: >-
   In many situations, roughly 80% of the effects come from just 20% of the
   causes.
