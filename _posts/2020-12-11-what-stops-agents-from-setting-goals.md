@@ -26,7 +26,7 @@ One of the biggest reasons people shy away from physically writing down their go
 
 When we practice, neural networks grow new connections, strengthen existing ones, and build insulation that speeds up the transmission of impulses. We can increase our neural growth by the actions we take, such as using effective strategies, asking questions, practicing techniques, and building healthy nutrition and sleep habits.
 
-![](/uploads/growth-mindset.png "Growth Mindset"){: width="1172" height="741"}
+![](/uploads/growth-mindset.png "Growth Mindset"){: width="661.75" height="372"}
 
 Carol Dweck’s study at Stanford University supports these findings, and she is credited with advancing the idea of the “growth mindset” as we know it—the belief that one’s ability to learn is not fixed, and that it can be shaped by one’s own efforts. In her study of thousands of children, Dr. Dweck has demonstrated that when kids read and learn about the brain and how it adapts in response to challenges, they're much more likely to persevere when they fail because they don’t believe that failure is a permanent condition.
 
