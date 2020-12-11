@@ -26,11 +26,11 @@ One of the biggest reasons people shy away from physically writing down their go
 
 When we practice, neural networks grow new connections, strengthen existing ones, and build insulation that speeds up the transmission of impulses. We can increase our neural growth by the actions we take, such as using effective strategies, asking questions, practicing techniques, and building healthy nutrition and sleep habits.
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/loyal-tapir.cloudvent.net/hash-store/378876a1dd166803742a8bbdac1e3cc9.png" alt="" title="Growth Mindset" width="700" height="394" data-cms-original-src="/uploads/growth-mindset.png"></center>
+<center><img alt="" title="Growth Mindset" width="700" height="394" src="/uploads/growth-mindset.png" /></center>
 
 Carol Dweck’s study at Stanford University supports these findings, and she is credited with advancing the idea of the “growth mindset” as we know it—the belief that one’s ability to learn is not fixed, and that it can be shaped by one’s own efforts. In her study of thousands of children, Dr. Dweck has demonstrated that when kids read and learn about the brain and how it adapts in response to challenges, they're much more likely to persevere when they fail because they don’t believe that failure is a permanent condition.
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/loyal-tapir.cloudvent.net/hash-store/75dc8d417c9827c1dead56e8ae2ea013.png" alt="" title="Achievement" width="512" height="236" data-cms-original-src="/uploads/achievement.png"></center>
+<center><a target="_blank" rel="noopener" href="https://centerhealthyminds.org/join-the-movement/getting-into-the-nitty-gritty-of-grit-what-it-is-and-how-you-can-learn-it"><img alt="" title="Achievement" width="512" height="236" src="/uploads/achievement.png" /></a></center>
 
 {% include pullquote.html %}
 
@@ -38,7 +38,7 @@ This growth mindset essentially reduces the value of natural talent as a fixed f
 
 Will Smith has a <u><a target="_blank" rel="noopener" href="https://youtu.be/KVRcPt6JWik">killer quote</a></u> about effort that I think about all the time:&nbsp;
 
-*“The only thing that I see that is distinctly different about me is...I’m not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things—you got it on me in all nine categories. But if we get on the treadmill together, there \[are only\] two things \[that can happen\]: You’re getting off first, or I’m going to die. It’s really that simple.”&nbsp;*
+*“The only thing that I see that is distinctly different about me is…I’m not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things—you got it on me in all nine categories. But if we get on the treadmill together, there \[are only\] two things \[that can happen\]: You’re getting off first, or I’m going to die. It’s really that simple.”&nbsp;*
 
 So, how do we put the growth mindset into action? &nbsp;At the Jelmberg Team, **our two weekly trainings and weekly coaching and accountability is the arena in which we practice, learn, and push our growth forward**.
 
