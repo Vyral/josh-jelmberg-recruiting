@@ -30,7 +30,7 @@ When we practice, neural networks grow new connections, strengthen existing ones
 
 Carol Dweck’s study at Stanford University supports these findings, and she is credited with advancing the idea of the “growth mindset” as we know it—the belief that one’s ability to learn is not fixed, and that it can be shaped by one’s own efforts. In her study of thousands of children, Dr. Dweck has demonstrated that when kids read and learn about the brain and how it adapts in response to challenges, they're much more likely to persevere when they fail because they don’t believe that failure is a permanent condition.
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/loyal-tapir.cloudvent.net/hash-store/75dc8d417c9827c1dead56e8ae2ea013.png" alt="" title="Achievement" width="512" height="236" data-cms-original-src="/uploads/achievement.png"></center>
+<center><a target="_blank" rel="noopener" href="https://centerhealthyminds.org/join-the-movement/getting-into-the-nitty-gritty-of-grit-what-it-is-and-how-you-can-learn-it"><img src="https://d1qmdf3vop2l07.cloudfront.net/loyal-tapir.cloudvent.net/hash-store/75dc8d417c9827c1dead56e8ae2ea013.png" alt="" title="Achievement" width="512" height="236" data-cms-original-src="/uploads/achievement.png"></center>
 
 {% include pullquote.html %}
 
