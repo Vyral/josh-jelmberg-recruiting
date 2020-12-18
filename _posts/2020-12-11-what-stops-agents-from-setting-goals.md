@@ -5,7 +5,8 @@ date: 2020-12-11 00:00:00
 tags:
   - Transaction Management
 excerpt: It’s important that we as professionals cultivate a growth mindset.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/What+Stops+Agents+From+Setting+Goals_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
