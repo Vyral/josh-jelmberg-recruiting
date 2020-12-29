@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/12-23-jelmberg-youtube.jpg
 youtube_code:
 ---
 
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/Cyq_ao7h3C4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <center><em>Don&rsquo;t just write vague, general goals; write S.M.A.R.T. goals. Here&rsquo;s how.</em></center>
 
