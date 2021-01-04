@@ -5,7 +5,8 @@ date: 2020-12-29 00:00:00
 tags:
   - Transaction Management
 excerpt: 'Don’t just write vague, general goals; write S.M.A.R.T. goals. Here’s how.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Formatting+Your+Goals+the+S.M.A.R.T.+Way.mp4
 pullquote: >-
   You can use a vision board as a tool to help clarify, concentrate, and
   maintain focus on a specific goal.
