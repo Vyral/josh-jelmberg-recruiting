@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/04-09-jelmberg-youtube.jpg
-youtube_code: Cx4TcmtCcak
+youtube_code:
 ---
 <iframe src="https://www.youtube.com/embed/Cx4TcmtCcak?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
