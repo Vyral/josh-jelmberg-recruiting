@@ -21,7 +21,7 @@ youtube_code:
 
 I’m Dan Mahoney, and I’m here to tell you my story of overcoming challenging times as a real estate agent with the Jelmberg Team. I was a schoolteacher for a while, but that wasn’t the right career for me, and I worked in industrial sales from my 20s until my late 40s. **I’ve now been in the real estate business for almost 12 years**. I got licensed in 2009, which ended up being the perfect time to learn the business because I jumped into the deep end in one of the worst times in the real estate market. 2009 to 2011 were extremely difficult years for many people.
 
-2020 began well, I was on my way to having my largest sales volume ever, and then the pandemic hit. Not everything can be blamed on the coronavirus, but my business began to fall apart; I worked with plenty of people, but they weren’t pulling the trigger to buy or sell.
+2020 began well, and I was on my way to having my largest sales volume ever, and then the pandemic hit. Not everything can be blamed on the coronavirus, but my business began to fall apart; I worked with plenty of people, but they weren’t pulling the trigger to buy or sell.
 
 {% include pullquote.html %}
 
