@@ -5,7 +5,8 @@ date: 2021-04-12 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Here’s how agent Dan Mahoney overcame tough times with the Jelmberg Team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Dan+Mahoney%E2%80%99s+Tough+Real+Estate+Journey.mp4
 pullquote: >-
   Make sure you have the financial resources to hack it for a while until things
   come to fruition.
