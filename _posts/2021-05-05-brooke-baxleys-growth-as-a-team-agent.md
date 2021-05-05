@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/04-22-jelmberg-youtube.jpg
 youtube_code: 4t1hiUeAn8o
 ---
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/4t1hiUeAn8o?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 {% include excerpt.html %}
 
