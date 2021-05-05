@@ -19,11 +19,11 @@ youtube_code: 4t1hiUeAn8o
 
 My name is Brooke Baxley, and today I want to share the growth in my career that I have experienced since working with the Jelmberg Team.&nbsp;
 
-I grew up in a real estate family; both of my parents are agents and my step-dad is a real estate attorney. After working in the escrow system for a while, I moved into the title side and customer service. I was working on getting my real estate license when someone from Keller Williams reached out to me and suggested I work for them. At first, I said no, but three months later he reached out again saying they still wanted me.&nbsp;
+I grew up in a real estate family; both of my parents are agents and my step-dad is a real estate attorney. After working in the escrow system for a while, I moved into the title side and customer service. **I was working on getting my real estate license when someone from Keller Williams reached out to me** and suggested I work for them. At first, I said no, but three months later he reached out again saying they still wanted me.&nbsp;
 
 At that point, I was in a stagnant place in my title career where I wasn’t able to move up. So I thought that if I became a real estate agent, I could control how much I made a bit more and how far I could move up in my career.&nbsp;
 
-The Jelmberg Team allowed me to set my own goals. If I wanted to make X amount of money, the team helped me figure out what I needed to do to get there. I’ve now reached the goals I originally set for myself. It’s fun being on the Jelmberg Team, and that has everything to do with the people; our whole team is great.
+The Jelmberg Team allowed me to set my own goals. If I wanted to make X amount of money, the team helped me figure out what I needed to do to get there. **I’ve now reached the goals I originally set for myself.** It’s fun being on the Jelmberg Team, and that has everything to do with the people; our whole team is great.
 
 {% include pullquote.html %}
 
