@@ -19,7 +19,7 @@ youtube_code:
 
 My name is Brooke Baxley, and today I want to share the growth in my career that I have experienced since working with the Jelmberg Team.
 
-I grew up in a real estate family; both of my parents are agents and my step-dad is a real estate attorney. After working in the escrow system for a while, I moved into the title side and customer service. **I was working on getting my real estate license when someone from Keller Williams reached out to me** and suggested I work for them. At first, I said no, but three months later he reached out again saying they still wanted me.
+After starting in the escrow system, I moved into the title side and customer service. **I was working on getting my real estate license when someone from Keller Williams reached out to me** and suggested I work for them. At first, I said no, but three months later he reached out again saying they still wanted me.
 
 {% include pullquote.html %}
 
