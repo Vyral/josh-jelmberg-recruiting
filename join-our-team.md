@@ -4,9 +4,12 @@ title: Coachella Valley Careers
 permalink: /join-our-team/
 ---
 
-<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Coachella Valley</h1><h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5><div class="recruiting-photo"><span class="client-image-container"><img class="client-image" src="/uploads/josh-1.jpg" /> </span></div></div>
-
-<figcaption class="caption">Josh Jelmberg</figcaption>
+<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Coachella Valley</h1><h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<div class="recruiting-photo">
+<span class="client-image-container">
+<img class="client-image" src="/uploads/josh-1.jpg" />
+</span><figcaption class="caption">Josh Jelmberg</figcaption>
+</div></div>
 
 [Appy Now](https://realestateiscalling.com/join-our-team/#apply){: .readmore}
 {: .readlink}
