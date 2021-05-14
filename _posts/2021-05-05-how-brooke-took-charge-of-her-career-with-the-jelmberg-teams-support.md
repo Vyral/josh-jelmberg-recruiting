@@ -10,7 +10,7 @@ pullquote: Its like major support that I never had before.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/04-22-jelmberg-youtube-1.jpg
+youtube_alternate_image: /uploads/04-22-jelmberg-youtube-2.jpg
 youtube_code:
 ---
 <iframe src="https://www.youtube.com/embed/Xgvai-JUbuA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
