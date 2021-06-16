@@ -70,11 +70,11 @@ After all, the choice is in your hands. You can stay struggling where you are, j
 
 **Our support-oriented environment helps professionals learn, grow, and thrive.** People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals you need support, coaching, resources, and leads—so that is exactly what we provide.
 
-So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.
+<a name="apply"></a>So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.
 
 I look forward to talking to you soon\!
 
-<a name="apply">Josh Jelmberg</a>
+Josh Jelmberg
 
 ## Apply Now to Join Our Team
 {: .recruiting}
