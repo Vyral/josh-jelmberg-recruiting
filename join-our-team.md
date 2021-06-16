@@ -74,7 +74,7 @@ So what are you waiting for? We need to get you going now so that you are traine
 
 I look forward to talking to you soon\!
 
-Josh Jelmberg
+<a name="apply">Josh Jelmberg</a>
 
 ## Apply Now to Join Our Team
 {: .recruiting}
