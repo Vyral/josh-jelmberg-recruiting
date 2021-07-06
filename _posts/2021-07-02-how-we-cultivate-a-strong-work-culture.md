@@ -5,7 +5,8 @@ date: 2021-07-02 00:00:00
 tags:
   - Transaction Management
 excerpt: Our work culture is so important to the strength of our team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/How+We+Cultivate+a+Strong+Work+Culture.mp4
 pullquote: We work smart with great passion, enthusiasm, and perseverance.
 enclosure_type: video/mp4
 enclosure_time:
