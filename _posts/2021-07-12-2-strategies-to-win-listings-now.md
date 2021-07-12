@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/07-08-jelmberg-recruiting-youtube.jpg
 youtube_code:
 ---
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/VFqKgKaXbFc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 {% include excerpt.html %}
 
