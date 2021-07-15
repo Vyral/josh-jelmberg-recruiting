@@ -21,9 +21,7 @@ The latest market update came out at the beginning of the month, and surprise su
 
 **First, If you have a database full of qualified buyers and no properties to show them, try matching your buyers with potential sellers that haven’t listed yet**.
 
-Our agents have over 1,000 buyers in our database ready to make a purchase in the next 90 days. They are able to easily filter these buyers by the type of property they’re looking for and make calls to prospective sellers that match our buyers’ criteria.
-
-Here’s an example: Through a quick filter of our database, I can see we have 75 buyers whom our agents have qualified that want a home in one of the PGA West communities. They’re looking for three beds, three baths, and a minimum 2,500 square feet.
+Our agents have over 1,000 buyers in our database ready to make a purchase in the next 90 days. They are able to easily filter these buyers by the type of property they’re looking for and make calls to prospective sellers that match our buyers’ criteria. Here’s an example: Through a quick filter of our database, I can see we have 75 buyers whom our agents have qualified that want a home in one of the PGA West communities. They’re looking for three beds, three baths, and a minimum of 2,500 square feet.
 
 {% include pullquote.html %}
 
