@@ -5,7 +5,8 @@ date: 2021-07-12 00:00:00
 tags:
   - Listing Presentation
 excerpt: If you’re struggling to get new listings, these two methods will help you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/2+Strategies+to+Win+Listings+Now.mp4
 pullquote: These have both been very effective strategies for us.
 enclosure_type: video/mp4
 enclosure_time:
