@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: This is how our team generates good, consistent leads.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Why+Is+Having+Multiple+Lead+Sources+So+Important_.mp4
 pullquote: Buyers are still a great source of business, even in this market.
 enclosure_type: video/mp4
 enclosure_time:
