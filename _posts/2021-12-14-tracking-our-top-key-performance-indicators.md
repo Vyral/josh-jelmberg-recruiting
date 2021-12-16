@@ -12,7 +12,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/12-07-jelmberg-youtube.jpg
 youtube_code: 0t88VmggRF0?rel=0
 ---
-<iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+&lt;iframe src="[https://youtu.be/0t88VmggRF0](https://youtu.be/0t88VmggRF0){: target="_blank"}?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"&gt; &lt;/span&gt;&lt;/iframe&gt;
 
 {% include excerpt.html %}
 
