@@ -8,9 +8,9 @@ enclosure:
 pullquote: 'For the majority of agents, business doesn’t just fall into our laps. '
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/12-07-jelmberg-youtube.jpg
-youtube_code: 0t88VmggRF0
+youtube_code: 0t88VmggRF0?rel=0
 ---
 <iframe src="https://www.youtube.com/embed/CODE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
