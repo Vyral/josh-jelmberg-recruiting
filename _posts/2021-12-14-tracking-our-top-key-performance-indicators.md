@@ -12,6 +12,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/12-07-jelmberg-youtube.jpg
 youtube_code: 0t88VmggRF0
 ---
+<iframe src="https://www.youtube.com/embed/0t88VmggRF0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+
 {% include excerpt.html %}
 
 Today I’m recording part of this video at the Palm Springs airport because we’re about to surprise our team with a night in Las Vegas to train, team build, and celebrate reaching a goal we set over five years ago. Our goal was to hit $100 million in sales, and we reached it within the first six months of 2021. With that in mind, today I’m sharing the top key performance indicators that we track throughout the year to ensure that we’re hitting our goals by the end of the year.&nbsp;
