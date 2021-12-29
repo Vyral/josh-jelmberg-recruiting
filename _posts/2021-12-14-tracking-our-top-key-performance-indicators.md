@@ -4,7 +4,8 @@ title: Tracking Our Top Key Performance Indicators
 date: 2021-12-14 00:00:00
 tags:
 excerpt: Here’s how we track our top key performance indicators to reach our goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/Tracking+Our+Top+Key+Performance+Indicators.mp4
 pullquote: 'For the majority of agents, business doesn’t just fall into our laps. '
 enclosure_type: video/mp4
 enclosure_time:
