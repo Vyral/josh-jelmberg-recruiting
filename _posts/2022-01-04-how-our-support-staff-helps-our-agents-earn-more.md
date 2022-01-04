@@ -21,7 +21,7 @@ youtube_code: hoGHdbtzk2w
 
 Creating relationships, building trust with clients, negotiating offers, and providing amazing customer service not only help build relationships, but are also key dollar-producing activities.
 
-It sounds easy, but being a solo agent in today’s market requires you to wear a lot of hats and they might not all fit. **Leveraging a highly trained and specialized transaction or listing coordinator may be your first order of business if you’re looking to grow your business. **
+It sounds easy, but being a solo agent in today’s market requires you to wear a lot of hats and they might not all fit. \*\*Leveraging a highly trained and specialized transaction or listing coordinator may be your first order of business if you’re looking to grow your business. \*\*
 
 {% include pullquote.html %}
 
