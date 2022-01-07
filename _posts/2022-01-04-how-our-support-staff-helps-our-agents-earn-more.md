@@ -4,7 +4,7 @@ title: How Our Support Staff Helps Our Agents Earn More
 date: 2022-01-04 19:18:17
 tags:
   - Lead Generation
-excerpt: Here’s how creating leverage helps our agents produce more and more.
+excerpt: Here’s how creating leverage helps our agents produce more.
 enclosure:
 pullquote: Not every one of those hats will fit properly.
 enclosure_type: video/mp4
@@ -17,17 +17,17 @@ youtube_code: hoGHdbtzk2w
 
 {% include excerpt.html %}
 
-**Regardless of where you are in your career, the key to seeing your business explode is focusing on the thing that probably drew you to real estate to begin with: people.**
+Regardless of where you are in your career, the key to seeing your business explode is focusing on the thing that probably drew you to real estate to begin with: **people.**
 
-Creating relationships, building trust with clients, negotiating offers, and providing amazing customer service not only help build relationships, but are also key dollar-producing activities.
+Creating trust with clients, negotiating offers, and providing amazing customer service not only help build relationships but are also key dollar-producing activities.
 
-It sounds easy, but being a solo agent in today’s market requires you to wear a lot of hats and they might not all fit. \*\*Leveraging a highly trained and specialized transaction or listing coordinator may be your first order of business if you’re looking to grow your business. \*\*
+It sounds easy, but being a solo agent in today’s market requires you to wear a lot of hats, and they might not all fit. **Leveraging a highly trained and specialized transaction or listing coordinator may be your first order of business if you’re looking to grow your business.**
 
 {% include pullquote.html %}
 
 Agents on our team have leveraged a team of contract managers, listing coordinators, and a marketing team that has been through well over 1,200 transactions together.&nbsp;
 
-Once our agents get an agreement signed, the team handles it from there with the agent only needing to get involved when there’s any kind of negotiation that needs to happen. Escrow, getting signatures, coordinating inspections, and keeping track of dates is all done for them.&nbsp;
+Once our agents get an agreement signed, the team handles it from there, with the agent only needing to get involved when there’s any kind of negotiation that needs to happen. Escrow, getting signatures, coordinating inspections, and keeping track of dates is all done for them.&nbsp;
 
 Additionally, the marketing team ensures that listings are put on the MLS with amazing photos from our three in-house photographers who also provide 360-degree tours and drone shots as needed.
 
