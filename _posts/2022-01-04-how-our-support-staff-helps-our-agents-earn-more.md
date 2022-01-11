@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-22-jelmberg-youtube.jpg
-youtube_code: hoGHdbtzk2w
+youtube_code: IJpq2IXp8dE
 ---
 <iframe src="https://www.youtube.com/embed/hoGHdbtzk2w?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
