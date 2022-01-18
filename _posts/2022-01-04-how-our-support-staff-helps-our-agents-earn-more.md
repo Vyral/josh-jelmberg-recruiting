@@ -5,7 +5,8 @@ date: 2022-01-04 19:18:17
 tags:
   - Lead Generation
 excerpt: Here’s how creating leverage helps our agents produce more.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Jelmberg/Videos/Recruiting/How+Our+Support+Staff+Helps+Our+Agents+Earn+More.mp4
 pullquote: Not every one of those hats will fit properly.
 enclosure_type: video/mp4
 enclosure_time:
