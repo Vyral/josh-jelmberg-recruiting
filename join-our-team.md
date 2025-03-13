@@ -3,18 +3,23 @@ layout: recruiting
 title: Coachella Valley Careers
 permalink: /join-our-team/
 ---
-
-<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Coachella Valley</h1><h5 class="join-us-subtitle">How would your life change if you consistently earned $80,000, $100,000, $250,000 or more as a full-time real estate agent?</h5>
-<div class="recruiting-photo">
-<span class="client-image-container">
-<img class="client-image" src="/uploads/josh-1.jpg" />
-</span><figcaption class="caption">Josh Jelmberg</figcaption>
-</div></div>
+<div class="recruiting-page">
+						<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Coachella Valley</h1>
+						<h5 class="join-us-subtitle">How would your life change if you consistently earned $80,000, $100,000, $250,000 or more as a full-time real estate agent?</h5>
+						<div class="recruiting-photo">
+							<span class="client-image-container">
+								<img class="client-image" src="/uploads/josh-1.jpg" />
+							</span>
+							<figcaption class="caption">Josh Jelmberg</figcaption>
+						</div>
+					</div>
 
 [Appy Now](https://realestateiscalling.com/join-our-team/#apply){: .readmore}
 {: .readlink}
 
-Dear Real Estate Agent or anyone looking to get involved with real estate -
+&nbsp;
+
+**Dear Real Estate Agent or anyone looking to get involved with real estate** -
 
 I understand that you may be working at a real estate brokerage, on a traditional team as part of someone else’s brand, or as a solo agent. You understand your potential and are working hard to clear a path toward your goals but currently lack the support you need to achieve them.
 
@@ -72,24 +77,32 @@ After all, the choice is in your hands. You can stay struggling where you are, j
 
 Our support-oriented environment helps professionals learn, grow, and thrive. People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals you need support, coaching, resources, and leads—so that is exactly what we provide.
 
-<a name="apply"></a>So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.
+So what are you waiting for? We need to get you going now so that you are trained and comfortable with our system by the time you start receiving leads. Our agents have more leads than they can handle right now, so getting you up to speed quickly is our top priority. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation today.
 
-You can learn more here: <a href="https://realestateiscalling.com/" target="_blank">Coachella Valley's Best Real Estate Training</a>
+You can learn more here: [Coachella Valley’s Best Real Estate Training](https://realestateiscalling.com/){: target="_blank" rel="noopener"}
 
-I look forward to talking to you soon\!
+I look forward to talking to you soon!
 
 Josh Jelmberg
+
+&nbsp;
 
 ## Apply Now to Join Our Team
 {: .recruiting}
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <script>
-hbspt.forms.create({
-portalId: "7644936",
-formId: "78fa48a7-4b8a-42a4-b98c-5db12f8b1c8a"
-});
-</script>
+							hbspt.forms.create({
+								portalId: "7644936",
+								formId: "78fa48a7-4b8a-42a4-b98c-5db12f8b1c8a"
+							});
+						</script>
+
+&nbsp;
 
 ![](https://px.ads.linkedin.com/collect/?pid=2549953&amp;conversionId=2942074&amp;fmt=gif){: width="1" height="1"}
